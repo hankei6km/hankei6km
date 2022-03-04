@@ -42,8 +42,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>浅茅生の 小野の篠原 しのぶれど</h3>
-<p><details><summary>下の句</summary>あまりてなどか 人の戀しき</details><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_039">http://linkdata.org/resource/rdf1s6833i#kajin_039</a></li><li>読札 -<a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_039.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_039.jpg</a></li></ul></p>
+<h3>難波江の あしのかりねの 一夜ゆゑ</h3>
+<p><details><summary>下の句</summary><p>みをつくしてや 戀ひわたるべき</p></details><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_088">http://linkdata.org/resource/rdf1s6833i#kajin_088</a></li><li>読札 -<a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_088.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_088.jpg</a></li></ul></p>
 
 <details>
 <summary>credit</summary>

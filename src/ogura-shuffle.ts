@@ -13,7 +13,7 @@ console.log(toHtml(h3))
 const p = h('p', {}, [
   h('details', {}, [
     h('summary', {}, ['下の句']),
-    content['karuta:secondHalf']
+    h('p', {}, [content['karuta:secondHalf']])
   ]),
   h('ul', {}, [
     h('li', {}, [
