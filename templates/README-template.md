@@ -5,7 +5,7 @@
 </p>
 
 <h2>
-<img style="height:1em;width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;"
+<img width="24" height="24" style="height:1em;width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;"
  src="assets/images/github.svg" />
 hankei6km's Github Stats
 </h2>
@@ -20,14 +20,14 @@ hankei6km's Github Stats
 </p>
 
 <h2>
-<img style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="assets/images/zenn.svg">
+<img width="24" height="24" style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="assets/images/zenn.svg">
 Recent posts from Zenn
 </h2>
 
 :replace{#zenn-articles}
 
 <h2>
-<img style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f5bc.png">
+<img width="24" height="24" style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f5bc.png">
 Recent deck from mardock
 </h2>
 
@@ -36,7 +36,7 @@ Recent deck from mardock
 </p>
 
 <h2>
-<img style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f38e.png">
+<img width="24" height="24" style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f38e.png">
 Today's Ogura Hyakunin Isshu
 </h2>
 
