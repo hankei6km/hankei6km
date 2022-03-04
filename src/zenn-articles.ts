@@ -189,6 +189,8 @@ async function main(
             'width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;',
           // タイトル行のアイキャッチとしてつかうので margin 変更.
           // 'width:1em; height:1em; margin: 0 .5em 0 .1em; vertical-align: -0.1em;',
+          width: '16',
+          jeoght: '16',
           alt: emoji,
           src: twemoji
         })
