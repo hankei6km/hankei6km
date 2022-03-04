@@ -21,7 +21,7 @@ const p = h('p', {}, [
       h('a', { href: content['dcterms:creator'] }, [content['dcterms:creator']])
     ]),
     h('li', {}, [
-      `読札 -`,
+      `読札 - `,
       h('a', { href: content['karuta:imageOfYomi'] }, [
         content['karuta:imageOfYomi']
       ])
