@@ -20,7 +20,7 @@ hankei6km's Github Stats
 </p>
 
 <h2>
-<img style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="assets/images/zenn.svg">
+<img width="24" height="24" style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="assets/images/zenn.svg">
 Recent posts from Zenn
 </h2>
 
