@@ -1,0 +1,54 @@
+name: Generate README
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '* 3 * * *'
+
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    environment: gen
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+
+      - name: Cache node modules
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+
+      - name: Install modules
+        run: npm ci
+
+      - name: Generate README
+        run: npx zx dist/gen-readme.js > README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACCOUNT: ${{ secrets.ACCOUNT }}
+          OWNER: ${{ secrets.OWNER }}
+          REPO: ${{ secrets.REPO }}
+
+      # https://zenn.dev/kawarimidoll/articles/283179cffd2ef6#%E8%87%AA%E5%8B%95%E3%81%A7%E6%9B%B4%E6%96%B0%E3%81%97%E3%81%A6commit%E3%81%99%E3%82%8B
+      - name: Git commit
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          if [ -n "$(git status --porcelain)" ]
+          then git commit -am 'Generate README.md' && git push origin
+          else echo 'nothing to commit, working tree clean'
+          fi
