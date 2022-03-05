@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -42,8 +42,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>名にしおはば 逢坂山の さねかづら</h3>
-<p><details><summary>下の句</summary><p>人にしられで くるよしもがな</p></details><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_025">http://linkdata.org/resource/rdf1s6833i#kajin_025</a></li><li>読札 -<a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_025.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_025.jpg</a></li></ul></p>
+<h3>立別れ いなばの山の 嶺におふる</h3>
+<p><details><summary>下の句</summary><p>まつとし聞かば 今帰り来む</p></details><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_016">http://linkdata.org/resource/rdf1s6833i#kajin_016</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_016.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_016.jpg</a></li></ul></p>
 
 <details>
 <summary>credit</summary>
