@@ -190,7 +190,7 @@ async function main(
             // タイトル行のアイキャッチとしてつかうのでサイズ調整.
             'width:1.1em; height:1.1em; margin: 0 .5em 0 .1em; vertical-align: -0.1em;',
           width: '18',
-          jeoght: '18',
+          height: '18',
           alt: emoji,
           src: twemoji
         })
