@@ -119,9 +119,10 @@ async function main(account, owner, repo, workerNum, limit, timeout) {
     for await (const { title, link, emoji, twemoji } of recvOut) {
         const twemojiImg = emoji
             ? h('img', {
-                style: 'width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;',
-                // タイトル行のアイキャッチとしてつかうので margin 変更.
-                // 'width:1em; height:1em; margin: 0 .5em 0 .1em; vertical-align: -0.1em;',
+                style: 
+                // 'width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;',
+                // タイトル行のアイキャッチとしてつかうのでサイズ調整.
+                'width:1.1em; height:1.1em; margin: 0 .5em 0 .1em; vertical-align: -0.1em;',
                 width: '18',
                 jeoght: '18',
                 alt: emoji,
