@@ -2,11 +2,12 @@ name: Generate README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* 3 * * *'
+    - cron: '55 14 * * *'
 
 jobs:
   gen:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     environment: gen
 
     strategy:
