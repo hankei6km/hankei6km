@@ -13,6 +13,7 @@ for (const item of feed.items.slice(0, 2)) {
   if (item.link && item.enclosure?.url) {
     const tree = h('a', { href: item.link }, [
       h('img', {
+        alt: item.title,
         src: item.enclosure?.url,
         //width: '360'
         width: '270',
