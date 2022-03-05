@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -32,8 +32,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
-<a href="https://hankei6km.github.io/mardock/deck/2022-02-in-outdoor-149"><img src="https://hankei6km.github.io/mardock/assets/deck/2022-02-in-outdoor-149/2022-02-in-outdoor-149.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2022-02-in-outdoor-148"><img src="https://hankei6km.github.io/mardock/assets/deck/2022-02-in-outdoor-148/2022-02-in-outdoor-148.png" width="270" height="152"></a>
+<a href="https://hankei6km.github.io/mardock/deck/2022-02-in-outdoor-149"><img alt="ジョグメモ 149" src="https://hankei6km.github.io/mardock/assets/deck/2022-02-in-outdoor-149/2022-02-in-outdoor-149.png" width="270" height="152"></a>
+<a href="https://hankei6km.github.io/mardock/deck/2022-02-in-outdoor-148"><img alt="ジョグメモ 148" src="https://hankei6km.github.io/mardock/assets/deck/2022-02-in-outdoor-148/2022-02-in-outdoor-148.png" width="270" height="152"></a>
 
 </p>
 
@@ -42,8 +42,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>わが袖は 汐干に見えぬ 沖の石の</h3>
-<p><details><summary>下の句と情報</summary><p>人こそ知らね 乾く間もなし</p><p>(わがそでは しほひにみえぬ おきのいしの　ひとこそしらね かわくまもなし)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_092">http://linkdata.org/resource/rdf1s6833i#kajin_092</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_092.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_092.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_092">http://linkdata.org/resource/rdf1s8931i#audio_nhk_092</a></li></ul></details></p>
+<h3>朝ぼらけ 宇治の川霧 絶えだえに</h3>
+<p><details><summary>下の句と情報</summary><p>あらはれ渡る 瀬々の網代木</p><p>(あさぼらけ うぢのかはぎり たえだえに　あらはれわたる せぜのあじろぎ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_064">http://linkdata.org/resource/rdf1s6833i#kajin_064</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_064.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_064.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_064">http://linkdata.org/resource/rdf1s8931i#audio_nhk_064</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
