@@ -12,10 +12,10 @@ hankei6km's Github Stats
 
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="457" alt="hankei6km's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true">
+  <img width="457" height="180" style="height:auto" alt="hankei6km's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true">
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="382" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankei6km&layout=compact">
+  <img width="382" height="!80" style="height:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankei6km&layout=compact">
  </a>
 </p>
 
@@ -54,4 +54,3 @@ Today's Ogura Hyakunin Isshu
 - License: http://creativecommons.org/licenses/by/3.0/deed.ja
 
 </details>
-
