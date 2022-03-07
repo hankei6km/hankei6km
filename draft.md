@@ -10,6 +10,23 @@
 hankei6km's Github Stats
 </h2>
 
+---
+
+md
+
+![dark](https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true&theme=dark#gh-dark-mode-only)
+![light](https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true#gh-light-mode-only)
+
+---
+
+html
+
+<img src="https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true&theme=dark#gh-dark-mode-only">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true#gh-light-mode-only">
+
+---
+
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="457" height="180" style="height:auto" alt="hankei6km's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true">
