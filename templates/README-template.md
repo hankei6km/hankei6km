@@ -12,20 +12,10 @@
 hankei6km's Github Stats
 </h2>
 
-<p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-dark.svg#gh-dark-mode-only">
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-light.svg#gh-light-mode-only">
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="382" alt="Top Langs" src="assets/images/top-langs-dark.svg#gh-dark-mode-only">
- </a>
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="382" alt="Top Langs" src="assets/images/top-langs-light.svg#gh-light-mode-only">
- </a>
-</p>
+<img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-dark.svg#gh-dark-mode-only">
+<img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-light.svg#gh-light-mode-only">
+<img width="382" alt="Top Langs" src="assets/images/top-langs-dark.svg#gh-dark-mode-only">
+<img width="382" alt="Top Langs" src="assets/images/top-langs-light.svg#gh-light-mode-only">
 
 <h2>
 <img width="24" height="24" style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="assets/images/zenn.svg">
