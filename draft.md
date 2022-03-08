@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -14,10 +14,16 @@ hankei6km's Github Stats
 
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="457" alt="hankei6km's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true">
+  <img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-dark.svg#gh-dark-mode-only">
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="382" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankei6km&layout=compact">
+  <img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-light.svg#gh-light-mode-only">
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="382" alt="Top Langs" src="assets/images/top-langs-dark.svg#gh-dark-mode-only">
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="382" alt="Top Langs" src="assets/images/top-langs-light.svg#gh-light-mode-only">
  </a>
 </p>
 
@@ -44,8 +50,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>明けぬれば くるるものとは 知りながら</h3>
-<p><details><summary>下の句と情報</summary><p>なほ恨めしき 朝ぼらけかな</p><p>(あけぬれば くるるものとは しりながら　なほうらめしき あさぼらけかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_052">http://linkdata.org/resource/rdf1s6833i#kajin_052</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_052.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_052.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_052">http://linkdata.org/resource/rdf1s8931i#audio_nhk_052</a></li></ul></details></p>
+<h3>廻り逢ひて 見しやそれとも わかぬまに</h3>
+<p><details><summary>下の句と情報</summary><p>雲がくれにし 夜半の月かな</p><p>(めぐりあひて みしやそれとも わかぬまに　くもがくれにし よはのつきかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_057">http://linkdata.org/resource/rdf1s6833i#kajin_057</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_057.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_057.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_057">http://linkdata.org/resource/rdf1s8931i#audio_nhk_057</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>

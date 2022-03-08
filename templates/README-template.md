@@ -14,10 +14,16 @@ hankei6km's Github Stats
 
 <p align="center">
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="457" alt="hankei6km's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hankei6km&show_icons=true">
+  <img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-dark.svg#gh-dark-mode-only">
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="382" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankei6km&layout=compact">
+  <img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-light.svg#gh-light-mode-only">
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="382" alt="Top Langs" src="assets/images/top-langs-dark.svg#gh-dark-mode-only">
+ </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="382" alt="Top Langs" src="assets/images/top-langs-light.svg#gh-light-mode-only">
  </a>
 </p>
 
