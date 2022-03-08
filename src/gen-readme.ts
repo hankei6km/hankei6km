@@ -64,6 +64,8 @@ async function main(): Promise<number> {
       `assets/images/header${header}.jpg`
     )
 
+    const p = $`zx dist/stats.js`
+
     const s = {
       'zenn-articles': zennArticles(errCh.send),
       'mardock-cards': mardockCards(errCh.send),

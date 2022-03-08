@@ -52,6 +52,7 @@ async function main() {
         let md = (await readFile('templates/README-template.md')).toString('utf-8');
         const header = Math.floor(Math.random() * (4 - 1) + 1);
         md = md.replace(`:replace{#${'header'}}`, `assets/images/header${header}.jpg`);
+        const p = $ `zx dist/stats.js`;
         const s = {
             'zenn-articles': zennArticles(errCh.send),
             'mardock-cards': mardockCards(errCh.send),
