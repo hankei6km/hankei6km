@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -9,7 +9,7 @@
  src="assets/images/github-dark.svg#gh-dark-mode-only" />
 <img width="24" height="24" style="height:1em;width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;"
  src="assets/images/github-light.svg#gh-light-mode-only" />
-hankei6km's Github Stats
+hankei6km's GitHub Stats
 </h2>
 
 <p align="center">
@@ -58,3 +58,4 @@ Today's Ogura Hyakunin Isshu
 - License: http://creativecommons.org/licenses/by/3.0/deed.ja
 
 </details>
+

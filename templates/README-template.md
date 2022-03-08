@@ -9,7 +9,7 @@
  src="assets/images/github-dark.svg#gh-dark-mode-only" />
 <img width="24" height="24" style="height:1em;width:1em;margin:0 0.05em 0 0.1em;vertical-align:-0.1em;"
  src="assets/images/github-light.svg#gh-light-mode-only" />
-hankei6km's Github Stats
+hankei6km's GitHub Stats
 </h2>
 
 <p align="center">
