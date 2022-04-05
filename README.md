@@ -46,8 +46,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>夕されば 門田の稲葉 おとづれて</h3>
-<p><details><summary>下の句と情報</summary><p>あしのまろやに 秋風ぞ吹く</p><p>(ゆふされば かどたのいなば おとづれて　あしのまろやに あきかぜぞふく)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_071">http://linkdata.org/resource/rdf1s6833i#kajin_071</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_071.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_071.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_071">http://linkdata.org/resource/rdf1s8931i#audio_nhk_071</a></li></ul></details></p>
+<h3>忘らるる 身をば思はず 誓ひてし</h3>
+<p><details><summary>下の句と情報</summary><p>人の命の 惜しくもあるかな</p><p>(わすらるる みをばおもはず ちかひてし　ひとのいのちの をしくもあるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_038">http://linkdata.org/resource/rdf1s6833i#kajin_038</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_038.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_038.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_038">http://linkdata.org/resource/rdf1s8931i#audio_nhk_038</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
