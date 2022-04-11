@@ -46,8 +46,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>花さそふ あらしの庭の 雪ならで</h3>
-<p><details><summary>下の句と情報</summary><p>ふりゆくものは 我が身なりけり</p><p>(はなさそふ あらしのにはの ゆきならで　ふりゆくものは わがみなりけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_096">http://linkdata.org/resource/rdf1s6833i#kajin_096</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_096.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_096.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_096">http://linkdata.org/resource/rdf1s8931i#audio_nhk_096</a></li></ul></details></p>
+<h3>みよしのの 山の秋風 小夜更けて</h3>
+<p><details><summary>下の句と情報</summary><p>故郷寒く 衣うつなり</p><p>(みよしのの やまのあきかぜ さよふけて　ふるさとさむく ころもうつなり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_094">http://linkdata.org/resource/rdf1s6833i#kajin_094</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_094.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_094.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_094">http://linkdata.org/resource/rdf1s8931i#audio_nhk_094</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
