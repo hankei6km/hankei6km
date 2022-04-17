@@ -46,8 +46,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>忘れじの 行末までは 難ければ</h3>
-<p><details><summary>下の句と情報</summary><p>今日を限りの 命ともがな</p><p>(わすれじの ゆくすゑまでは かたければ　けふをかぎりの いのちともがな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_054">http://linkdata.org/resource/rdf1s6833i#kajin_054</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_054.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_054.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_054">http://linkdata.org/resource/rdf1s8931i#audio_nhk_054</a></li></ul></details></p>
+<h3>君がため 惜しからざりし 命さへ</h3>
+<p><details><summary>下の句と情報</summary><p>長くもがなと 思ひけるかな</p><p>(きみがため をしからざりし いのちさえ　ながくもがなと おもひけるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_050">http://linkdata.org/resource/rdf1s6833i#kajin_050</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_050.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_050.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_050">http://linkdata.org/resource/rdf1s8931i#audio_nhk_050</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
