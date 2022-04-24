@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -46,8 +46,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>今来むと  いひしばかりに 長月の</h3>
-<p><details><summary>下の句と情報</summary><p>有明の月を 待ち出でつるかな</p><p>(いまこむと いひしばかりに ながつきの　ありあけのつきを まちいでつるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_021">http://linkdata.org/resource/rdf1s6833i#kajin_021</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_021.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_021.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_021">http://linkdata.org/resource/rdf1s8931i#audio_nhk_021</a></li></ul></details></p>
+<h3>吹くからに 秋の草木の しをるれば</h3>
+<p><details><summary>下の句と情報</summary><p>むべ山風を あらしといふらむ</p><p>(ふくからに あきのくさきの しをるれば　むべやまかぜを あらしといふらむ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_022">http://linkdata.org/resource/rdf1s6833i#kajin_022</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_022.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_022.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_022">http://linkdata.org/resource/rdf1s8931i#audio_nhk_022</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
