@@ -36,8 +36,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2022-04-in-outdoor-157"><img alt="ジョグメモ 157" src="https://hankei6km.github.io/mardock/assets/deck/2022-04-in-outdoor-157/2022-04-in-outdoor-157.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2022-04-in-outdoor-156"><img alt="ジョグメモ 156" src="https://hankei6km.github.io/mardock/assets/deck/2022-04-in-outdoor-156/2022-04-in-outdoor-156.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2022-04-in-outdoor-155"><img alt="ジョグメモ 155" src="https://hankei6km.github.io/mardock/assets/deck/2022-04-in-outdoor-155/2022-04-in-outdoor-155.png" width="270" height="152"></a>
 
 </p>
 
@@ -46,8 +46,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>春過ぎて 夏来にけらし 白妙の</h3>
-<p><details><summary>下の句と情報</summary><p>衣ほすてふ 天の香具山</p><p>(はるすぎて なつきにけらし しろたへの　ころもほすてふ あまのかぐやま)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_002">http://linkdata.org/resource/rdf1s6833i#kajin_002</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_002.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_002.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_002">http://linkdata.org/resource/rdf1s8931i#audio_nhk_002</a></li></ul></details></p>
+<h3>明けぬれば くるるものとは 知りながら</h3>
+<p><details><summary>下の句と情報</summary><p>なほ恨めしき 朝ぼらけかな</p><p>(あけぬれば くるるものとは しりながら　なほうらめしき あさぼらけかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_052">http://linkdata.org/resource/rdf1s6833i#kajin_052</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_052.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_052.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_052">http://linkdata.org/resource/rdf1s8931i#audio_nhk_052</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
