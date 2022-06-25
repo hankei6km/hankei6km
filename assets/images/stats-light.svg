@@ -5,7 +5,11 @@
         viewBox="0 0 495 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
       >
+        <title id="titleId">hankei6km's GitHub Stats, Rank: A++</title>
+        <desc id="descId">Total Stars Earned: 31, Total Commits in 2022 : 31, Total PRs: 1075, Total Issues: 24, Contributed to: 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -62,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.97263769904721;
+        stroke-dashoffset: 100.89621524369522;
       }
     }
   
@@ -141,7 +145,6 @@
           </text>
         </g>
       </g>
-
     <svg x="0" y="0">
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms" transform="translate(25, 0)">
@@ -156,7 +159,7 @@
         x="190" 
         y="12.5" 
         data-testid="stars"
-      >29</text>
+      >31</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -171,7 +174,7 @@
         x="190" 
         y="12.5" 
         data-testid="commits"
-      >3.3k</text>
+      >3k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -186,7 +189,7 @@
         x="190" 
         y="12.5" 
         data-testid="prs"
-      >1k</text>
+      >1.1k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -201,7 +204,7 @@
         x="190" 
         y="12.5" 
         data-testid="issues"
-      >23</text>
+      >24</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -216,7 +219,7 @@
         x="190" 
         y="12.5" 
         data-testid="contribs"
-      >8</text>
+      >9</text>
     </g>
   </g>
     </svg> 
