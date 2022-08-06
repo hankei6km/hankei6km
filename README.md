@@ -36,8 +36,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2022-08-in-outdoor-174"><img alt="ジョグメモ 174" src="https://hankei6km.github.io/mardock/assets/deck/2022-08-in-outdoor-174/2022-08-in-outdoor-174.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2022-07-in-outdoor-173"><img alt="ジョグメモ 173" src="https://hankei6km.github.io/mardock/assets/deck/2022-07-in-outdoor-173/2022-07-in-outdoor-173.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2022-07-in-outdoor-172"><img alt="ジョグメモ 172" src="https://hankei6km.github.io/mardock/assets/deck/2022-07-in-outdoor-172/2022-07-in-outdoor-172.png" width="270" height="152"></a>
 
 </p>
 
@@ -46,8 +46,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>忘らるる 身をば思はず 誓ひてし</h3>
-<p><details><summary>下の句と情報</summary><p>人の命の 惜しくもあるかな</p><p>(わすらるる みをばおもはず ちかひてし　ひとのいのちの をしくもあるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_038">http://linkdata.org/resource/rdf1s6833i#kajin_038</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_038.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_038.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_038">http://linkdata.org/resource/rdf1s8931i#audio_nhk_038</a></li></ul></details></p>
+<h3>逢ふことの 絶えてしなくば なかなかに</h3>
+<p><details><summary>下の句と情報</summary><p>人をも身をも 恨みざらまし</p><p>(あふことの たえてしなくば なかなかに　ひとをもみをも うらみざらまし)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_044">http://linkdata.org/resource/rdf1s6833i#kajin_044</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_044">http://linkdata.org/resource/rdf1s8931i#audio_nhk_044</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
