@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">hankei6km's GitHub Stats, Rank: A++</title>
-        <desc id="descId">Total Stars Earned: 31, Total Commits in 2022 : 31, Total PRs: 1075, Total Issues: 24, Contributed to: 9</desc>
+        <desc id="descId">Total Stars Earned: 34, Total Commits in 2022 : 34, Total PRs: 1120, Total Issues: 25, Contributed to: 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -66,7 +66,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 100.89621524369522;
+        stroke-dashoffset: 100.0587439819245;
       }
     }
   
@@ -159,7 +159,7 @@
         x="190" 
         y="12.5" 
         data-testid="stars"
-      >31</text>
+      >34</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -174,7 +174,7 @@
         x="190" 
         y="12.5" 
         data-testid="commits"
-      >3k</text>
+      >3.1k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -204,7 +204,7 @@
         x="190" 
         y="12.5" 
         data-testid="issues"
-      >24</text>
+      >25</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -219,7 +219,7 @@
         x="190" 
         y="12.5" 
         data-testid="contribs"
-      >9</text>
+      >10</text>
     </g>
   </g>
     </svg> 
