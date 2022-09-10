@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header1.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -36,8 +36,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2022-09-in-outdoor-179"><img alt="ジョグメモ 179" src="https://hankei6km.github.io/mardock/assets/deck/2022-09-in-outdoor-179/2022-09-in-outdoor-179.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2022-09-in-outdoor-178"><img alt="ジョグメモ 178" src="https://hankei6km.github.io/mardock/assets/deck/2022-09-in-outdoor-178/2022-09-in-outdoor-178.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2022-08-in-outdoor-177"><img alt="ジョグメモ 177" src="https://hankei6km.github.io/mardock/assets/deck/2022-08-in-outdoor-177/2022-08-in-outdoor-177.png" width="270" height="152"></a>
 
 </p>
 
@@ -46,8 +46,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>御垣守 衛士のたく火の 夜はもえ</h3>
-<p><details><summary>下の句と情報</summary><p>晝は消えつつ ものをこそ思へ</p><p>(みかきもり ゑじのたくひの よるはもえ　ひるはきえつつ ものをこそおもへ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_049">http://linkdata.org/resource/rdf1s6833i#kajin_049</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_049.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_049.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_049">http://linkdata.org/resource/rdf1s8931i#audio_nhk_049</a></li></ul></details></p>
+<h3>わが庵は 都のたつみ しかぞ住む</h3>
+<p><details><summary>下の句と情報</summary><p>世をうぢ山と 人はいふなり</p><p>(わがいほは みやこのたつみ しかぞすむ　よをうぢやまと ひとはいふなり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_008">http://linkdata.org/resource/rdf1s6833i#kajin_008</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_008.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_008.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_008">http://linkdata.org/resource/rdf1s8931i#audio_nhk_008</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
