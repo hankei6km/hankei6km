@@ -14,10 +14,10 @@ hankei6km's GitHub Stats
 
 <p align="center">
 
-<img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-dark.svg#gh-dark-mode-only">
-<img width="457" alt="hankei6km's GitHub stats" src="assets/images/stats-light.svg#gh-light-mode-only">
-<img width="382" alt="Top Langs" src="assets/images/top-langs-dark.svg#gh-dark-mode-only">
-<img width="382" alt="Top Langs" src="assets/images/top-langs-light.svg#gh-light-mode-only">
+<img width="455" alt="hankei6km's GitHub stats" src="assets/images/stats-dark.svg#gh-dark-mode-only">
+<img width="455" alt="hankei6km's GitHub stats" src="assets/images/stats-light.svg#gh-light-mode-only">
+<img width="380" alt="Top Langs" src="assets/images/top-langs-dark.svg#gh-dark-mode-only">
+<img width="380" alt="Top Langs" src="assets/images/top-langs-light.svg#gh-light-mode-only">
 
 </p>
 
