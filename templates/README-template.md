@@ -30,6 +30,9 @@ Recent posts from Zenn
 
 :replace{#zenn-articles}
 
+[![Likes](https://badgen.org/img/zenn/hankei6km/likes?style=flat)](https://zenn.dev/hankei6km)
+[![Articles](https://badgen.org/img/zenn/hankei6km/articles?style=flat)](https://zenn.dev/hankei6km)
+
 <h2>
 <img width="24" height="24" style="width:1em; height:1em; margin: 0 .05em 0 .1em; vertical-align: -0.1em;" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f5bc.png">
 Recent deck from mardock
