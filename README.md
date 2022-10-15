@@ -39,8 +39,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2022-10-in-outdoor-184"><img alt="ジョグメモ 184" src="https://hankei6km.github.io/mardock/assets/deck/2022-10-in-outdoor-184/2022-10-in-outdoor-184.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2022-10-in-outdoor-183"><img alt="ジョグメモ 183" src="https://hankei6km.github.io/mardock/assets/deck/2022-10-in-outdoor-183/2022-10-in-outdoor-183.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2022-10-in-outdoor-182"><img alt="ジョグメモ 182" src="https://hankei6km.github.io/mardock/assets/deck/2022-10-in-outdoor-182/2022-10-in-outdoor-182.png" width="270" height="152"></a>
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>立別れ いなばの山の 嶺におふる</h3>
-<p><details><summary>下の句と情報</summary><p>まつとし聞かば 今帰り来む</p><p>(たちわかれ いなばのやまの みねにおふる　まつとしきかば いまかへりこむ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_016">http://linkdata.org/resource/rdf1s6833i#kajin_016</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_016.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_016.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_016">http://linkdata.org/resource/rdf1s8931i#audio_nhk_016</a></li></ul></details></p>
+<h3>夏の夜は まだ宵ながら あけぬるを</h3>
+<p><details><summary>下の句と情報</summary><p>雲のいづこに 月宿るらむ</p><p>(なつのよは まだよひながら あけぬるを　くものいづこに つきやどるらむ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_036">http://linkdata.org/resource/rdf1s6833i#kajin_036</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_036.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_036.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_036">http://linkdata.org/resource/rdf1s8931i#audio_nhk_036</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
