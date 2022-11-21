@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header3.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>みよしのの 山の秋風 小夜更けて</h3>
-<p><details><summary>下の句と情報</summary><p>故郷寒く 衣うつなり</p><p>(みよしのの やまのあきかぜ さよふけて　ふるさとさむく ころもうつなり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_094">http://linkdata.org/resource/rdf1s6833i#kajin_094</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_094.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_094.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_094">http://linkdata.org/resource/rdf1s8931i#audio_nhk_094</a></li></ul></details></p>
+<h3>淡路島 かよふ千鳥の 鳴く声に</h3>
+<p><details><summary>下の句と情報</summary><p>いくよ寝覚めぬ 須磨の関守</p><p>(あわじしま かよふちどりの なくこゑに　いくよねざめぬ すまのせきもり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_078">http://linkdata.org/resource/rdf1s6833i#kajin_078</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_078.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_078.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_078">http://linkdata.org/resource/rdf1s8931i#audio_nhk_078</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
