@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>花の色は 移りにけりな 徒に</h3>
-<p><details><summary>下の句と情報</summary><p>我が身世にふる ながめせしまに</p><p>(はなのいろは うつりにけりな いたづらに　わがみよにふる ながめせしまに)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_009">http://linkdata.org/resource/rdf1s6833i#kajin_009</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_009.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_009.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_009">http://linkdata.org/resource/rdf1s8931i#audio_nhk_009</a></li></ul></details></p>
+<h3>風をいたみ 岩うつ浪の おのれのみ</h3>
+<p><details><summary>下の句と情報</summary><p>砕けてものを 思ふ頃かな</p><p>(かぜをいたみ いはうつなみの おのれのみ　くだけてものを おもふころかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_048">http://linkdata.org/resource/rdf1s6833i#kajin_048</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_048.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_048.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_048">http://linkdata.org/resource/rdf1s8931i#audio_nhk_048</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
