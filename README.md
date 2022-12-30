@@ -39,8 +39,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/vayslp4ik"><img alt="ジョグメモ 195" src="https://hankei6km.github.io/mardock/assets/deck/vayslp4ik/vayslp4ik.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2022-12-in-outdoor-194"><img alt="ジョグメモ 194" src="https://hankei6km.github.io/mardock/assets/deck/2022-12-in-outdoor-194/2022-12-in-outdoor-194.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2022-12-in-outdoor-193"><img alt="ジョグメモ 193" src="https://hankei6km.github.io/mardock/assets/deck/2022-12-in-outdoor-193/2022-12-in-outdoor-193.png" width="270" height="152"></a>
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>瀧の音は たえて久しく なりぬれど</h3>
-<p><details><summary>下の句と情報</summary><p>名こそ流れて なほ聞こえけれ</p><p>(たきのおとは たえてひさしく なりぬれど　なこそながれて なほきこえけれ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_055">http://linkdata.org/resource/rdf1s6833i#kajin_055</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_055.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_055.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_055">http://linkdata.org/resource/rdf1s8931i#audio_nhk_055</a></li></ul></details></p>
+<h3>月見れば 千々に物こそ 悲しけれ</h3>
+<p><details><summary>下の句と情報</summary><p>わが身ひとつの 秋にはあらねど</p><p>(つきみれば ちゞにものこそ かなしけれ　わがみひとつの あきにはあらねど)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_023">http://linkdata.org/resource/rdf1s6833i#kajin_023</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_023.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_023.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_023">http://linkdata.org/resource/rdf1s8931i#audio_nhk_023</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
