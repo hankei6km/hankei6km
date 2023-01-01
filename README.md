@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header1.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -39,8 +39,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2023-01-in-outdoor-196"><img alt="ジョグメモ 196" src="https://hankei6km.github.io/mardock/assets/deck/2023-01-in-outdoor-196/2023-01-in-outdoor-196.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/vayslp4ik"><img alt="ジョグメモ 195" src="https://hankei6km.github.io/mardock/assets/deck/vayslp4ik/vayslp4ik.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2022-12-in-outdoor-194"><img alt="ジョグメモ 194" src="https://hankei6km.github.io/mardock/assets/deck/2022-12-in-outdoor-194/2022-12-in-outdoor-194.png" width="270" height="152"></a>
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>秋の田の かりほの庵の 苫をあらみ</h3>
-<p><details><summary>下の句と情報</summary><p>わが衣手は 露にぬれつつ</p><p>(あきのたの かりほのいほの とまをあらみ　わがころもでは つゆにぬれつつ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_001">http://linkdata.org/resource/rdf1s6833i#kajin_001</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_001.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_001.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_001">http://linkdata.org/resource/rdf1s8931i#audio_nhk_001</a></li></ul></details></p>
+<h3>明けぬれば くるるものとは 知りながら</h3>
+<p><details><summary>下の句と情報</summary><p>なほ恨めしき 朝ぼらけかな</p><p>(あけぬれば くるるものとは しりながら　なほうらめしき あさぼらけかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_052">http://linkdata.org/resource/rdf1s6833i#kajin_052</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_052.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_052.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_052">http://linkdata.org/resource/rdf1s8931i#audio_nhk_052</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
