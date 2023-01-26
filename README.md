@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header3.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>八重葎 しげれる宿の さびしきに</h3>
-<p><details><summary>下の句と情報</summary><p>人こそ見えね 秋はきにけり</p><p>(やえむぐら しげれるやどの さびしきに　ひとこそみえね あきはきにけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_047">http://linkdata.org/resource/rdf1s6833i#kajin_047</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_047.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_047.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_047">http://linkdata.org/resource/rdf1s8931i#audio_nhk_047</a></li></ul></details></p>
+<h3>逢ひみての 後の心に くらぶれば</h3>
+<p><details><summary>下の句と情報</summary><p>昔はものを 思はざりけり</p><p>(あひみての のちのこころに くらぶれば　むかしはものを おもはざりけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_043">http://linkdata.org/resource/rdf1s6833i#kajin_043</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_043.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_043.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_043">http://linkdata.org/resource/rdf1s8931i#audio_nhk_043</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
