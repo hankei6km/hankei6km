@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>わが庵は 都のたつみ しかぞ住む</h3>
-<p><details><summary>下の句と情報</summary><p>世をうぢ山と 人はいふなり</p><p>(わがいほは みやこのたつみ しかぞすむ　よをうぢやまと ひとはいふなり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_008">http://linkdata.org/resource/rdf1s6833i#kajin_008</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_008.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_008.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_008">http://linkdata.org/resource/rdf1s8931i#audio_nhk_008</a></li></ul></details></p>
+<h3>来ぬ人を 松帆の浦の 夕なぎに</h3>
+<p><details><summary>下の句と情報</summary><p>焼くや藻塩の 身もこがれつつ</p><p>(こぬひとを まつほのうらの ゆふなぎに　やくやもしほの みもこがれつつ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_097">http://linkdata.org/resource/rdf1s6833i#kajin_097</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_097.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_097.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_097">http://linkdata.org/resource/rdf1s8931i#audio_nhk_097</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
