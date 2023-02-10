@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header3.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>君がため 春の野に出でて 若菜つむ</h3>
-<p><details><summary>下の句と情報</summary><p>わが衣手に 雪は降りつつ</p><p>(きみがため はるののにいでて わかなつむ　わがころもでに ゆきはふりつつ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_015">http://linkdata.org/resource/rdf1s6833i#kajin_015</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_015.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_015.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_015">http://linkdata.org/resource/rdf1s8931i#audio_nhk_015</a></li></ul></details></p>
+<h3>逢ふことの 絶えてしなくば なかなかに</h3>
+<p><details><summary>下の句と情報</summary><p>人をも身をも 恨みざらまし</p><p>(あふことの たえてしなくば なかなかに　ひとをもみをも うらみざらまし)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_044">http://linkdata.org/resource/rdf1s6833i#kajin_044</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_044">http://linkdata.org/resource/rdf1s8931i#audio_nhk_044</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
