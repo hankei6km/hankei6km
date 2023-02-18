@@ -39,8 +39,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2023-02-in-outdoor-203"><img alt="ジョグメモ 203" src="https://hankei6km.github.io/mardock/assets/deck/2023-02-in-outdoor-203/2023-02-in-outdoor-203.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2023-02-in-outdoor-202"><img alt="ジョグメモ 202" src="https://hankei6km.github.io/mardock/assets/deck/2023-02-in-outdoor-202/2023-02-in-outdoor-202.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2023-02-in-outdoor-201"><img alt="ジョグメモ 201" src="https://hankei6km.github.io/mardock/assets/deck/2023-02-in-outdoor-201/2023-02-in-outdoor-201.png" width="270" height="152"></a>
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>かさゝぎの 渡せる橋に おく霜の</h3>
-<p><details><summary>下の句と情報</summary><p>しろきを見れば 夜ぞふけにける</p><p>(かささぎの わたせるはしに おくしもの　しろきをみれば よぞふけにける)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_006">http://linkdata.org/resource/rdf1s6833i#kajin_006</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_006.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_006.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_006">http://linkdata.org/resource/rdf1s8931i#audio_nhk_006</a></li></ul></details></p>
+<h3>ちはやぶる 神代も聞かず 龍田川</h3>
+<p><details><summary>下の句と情報</summary><p>から紅に 水くくるとは</p><p>(ちはやぶる かみよもきかず たつたがは　からくれなゐに みづくくるとは)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_017">http://linkdata.org/resource/rdf1s6833i#kajin_017</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_017.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_017.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_017">http://linkdata.org/resource/rdf1s8931i#audio_nhk_017</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
