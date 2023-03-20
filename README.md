@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>見せばやな 雄島のあまの 袖だにも</h3>
-<p><details><summary>下の句と情報</summary><p>濡れにぞ濡れし 色はかはらず</p><p>(みせばやな をじまのあまの そでだにも　ぬれにぞぬれし いろはかはらず)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_090">http://linkdata.org/resource/rdf1s6833i#kajin_090</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_090.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_090.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_090">http://linkdata.org/resource/rdf1s8931i#audio_nhk_090</a></li></ul></details></p>
+<h3>夕されば 門田の稲葉 おとづれて</h3>
+<p><details><summary>下の句と情報</summary><p>あしのまろやに 秋風ぞ吹く</p><p>(ゆふされば かどたのいなば おとづれて　あしのまろやに あきかぜぞふく)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_071">http://linkdata.org/resource/rdf1s6833i#kajin_071</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_071.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_071.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_071">http://linkdata.org/resource/rdf1s8931i#audio_nhk_071</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
