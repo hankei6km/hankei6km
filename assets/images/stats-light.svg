@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">hankei6km's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 58, Total Commits in 2023 : 58, Total PRs: 1435, Total Issues: 31, Contributed to (last year): 5</desc>
+        <title id="titleId">hankei6km's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 58, Total Commits in 2023 : 58, Total PRs: 1442, Total Issues: 31, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -67,7 +67,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 108.34070196583431;
+        stroke-dashoffset: 67.79466367327588;
       }
     }
   
@@ -137,7 +137,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A-
         </text>
       
         </g>
@@ -216,7 +216,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >5</text>
+      >4</text>
     </g>
   </g>
     </svg>
