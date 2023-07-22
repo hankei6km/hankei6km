@@ -39,8 +39,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2023-07-in-outdoor-219"><img alt="ジョグメモ 219" src="https://hankei6km.github.io/mardock/assets/deck/2023-07-in-outdoor-219/2023-07-in-outdoor-219.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2023-07-in-outdoor-218"><img alt="ジョグメモ 218" src="https://hankei6km.github.io/mardock/assets/deck/2023-07-in-outdoor-218/2023-07-in-outdoor-218.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2023-06-in-outdoor-217"><img alt="ジョグメモ 217" src="https://hankei6km.github.io/mardock/assets/deck/2023-06-in-outdoor-217/2023-06-in-outdoor-217.png" width="270" height="152"></a>
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>逢ふことの 絶えてしなくば なかなかに</h3>
-<p><details><summary>下の句と情報</summary><p>人をも身をも 恨みざらまし</p><p>(あふことの たえてしなくば なかなかに　ひとをもみをも うらみざらまし)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_044">http://linkdata.org/resource/rdf1s6833i#kajin_044</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_044">http://linkdata.org/resource/rdf1s8931i#audio_nhk_044</a></li></ul></details></p>
+<h3>忍れど 色に出でにけり 我が戀は</h3>
+<p><details><summary>下の句と情報</summary><p>ものや思ふと 人の問ふまで</p><p>(しのぶれど いろにいでにけり わがこひは　ものやおもふと ひとのとふまで)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_040">http://linkdata.org/resource/rdf1s6833i#kajin_040</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_040.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_040.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_040">http://linkdata.org/resource/rdf1s8931i#audio_nhk_040</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
