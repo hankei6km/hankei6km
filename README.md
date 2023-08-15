@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header3.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>嘆きつつ 独りぬる夜の 明くるまは</h3>
-<p><details><summary>下の句と情報</summary><p>いかに久しき ものとかは知る</p><p>(なげきつつ ひとりぬるよの あくるまは　いかにひさしき ものとかはしる)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_053">http://linkdata.org/resource/rdf1s6833i#kajin_053</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_053.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_053.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_053">http://linkdata.org/resource/rdf1s8931i#audio_nhk_053</a></li></ul></details></p>
+<h3>古への 奈良の都の 八重ざくら</h3>
+<p><details><summary>下の句と情報</summary><p>今日九重に 匂ひぬるかな</p><p>(いにしへの ならのみやこの やへざくら　けふここのえに におひぬるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_061">http://linkdata.org/resource/rdf1s6833i#kajin_061</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_061.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_061.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_061">http://linkdata.org/resource/rdf1s8931i#audio_nhk_061</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
