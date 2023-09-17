@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>来ぬ人を 松帆の浦の 夕なぎに</h3>
-<p><details><summary>下の句と情報</summary><p>焼くや藻塩の 身もこがれつつ</p><p>(こぬひとを まつほのうらの ゆふなぎに　やくやもしほの みもこがれつつ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_097">http://linkdata.org/resource/rdf1s6833i#kajin_097</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_097.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_097.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_097">http://linkdata.org/resource/rdf1s8931i#audio_nhk_097</a></li></ul></details></p>
+<h3>百敷や 古き軒端の しのぶにも</h3>
+<p><details><summary>下の句と情報</summary><p>なほあまりある 昔なりけり</p><p>(ももしきや ふるきのきばの しのぶにも　なほあまりある むかしなりけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_100">http://linkdata.org/resource/rdf1s6833i#kajin_100</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_100.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_100.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_100">http://linkdata.org/resource/rdf1s8931i#audio_nhk_100</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
