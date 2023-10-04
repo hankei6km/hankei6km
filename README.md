@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>春の夜の 夢ばかりなる 手枕に</h3>
-<p><details><summary>下の句と情報</summary><p>かひなく立たむ 名こそ惜しけれ</p><p>(はるのよの ゆめばかりなる たまくらに　かひなくたたむ なこそをしけれ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_067">http://linkdata.org/resource/rdf1s6833i#kajin_067</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_067.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_067.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_067">http://linkdata.org/resource/rdf1s8931i#audio_nhk_067</a></li></ul></details></p>
+<h3>瀬を早み 岩にせかるる 瀧川の</h3>
+<p><details><summary>下の句と情報</summary><p>われても末に 逢はむとぞ思ふ</p><p>(せをはやみ いわにせかるる たきがはの　われてもすゑに あはむとぞおもふ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_077">http://linkdata.org/resource/rdf1s6833i#kajin_077</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_077.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_077.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_077">http://linkdata.org/resource/rdf1s8931i#audio_nhk_077</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
