@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header1.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -39,8 +39,8 @@ Recent deck from mardock
 </h2>
 
 <p align="center">
+<a href="https://hankei6km.github.io/mardock/deck/2023-10-in-outdoor-225"><img alt="ジョグメモ 225" src="https://hankei6km.github.io/mardock/assets/deck/2023-10-in-outdoor-225/2023-10-in-outdoor-225.png" width="270" height="152"></a>
 <a href="https://hankei6km.github.io/mardock/deck/2023-09-in-outdoor-224"><img alt="ジョグメモ 224" src="https://hankei6km.github.io/mardock/assets/deck/2023-09-in-outdoor-224/2023-09-in-outdoor-224.png" width="270" height="152"></a>
-<a href="https://hankei6km.github.io/mardock/deck/2023-09-in-outdoor-223"><img alt="ジョグメモ 223" src="https://hankei6km.github.io/mardock/assets/deck/2023-09-in-outdoor-223/2023-09-in-outdoor-223.png" width="270" height="152"></a>
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>難波津に 咲くやこの花 冬ごもり</h3>
-<p><details><summary>下の句と情報</summary><p>今を春べと 咲くやこの花</p><p>(なにわづに さくやこのはな ふゆごもり　いまをはるべと さくやこのはな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_000">http://linkdata.org/resource/rdf1s6833i#kajin_000</a></li><li>読札 - <a></a></li><li>異なる記録形式 - <a></a></li></ul></details></p>
+<h3>やすらはで 寝なましものを 小夜更けて</h3>
+<p><details><summary>下の句と情報</summary><p>傾くまでの 月を見しかな</p><p>(やすらはで ねなましものを さよふけて　かたぶくまでの つきをみしかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_059">http://linkdata.org/resource/rdf1s6833i#kajin_059</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_059.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_059.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_059">http://linkdata.org/resource/rdf1s8931i#audio_nhk_059</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
