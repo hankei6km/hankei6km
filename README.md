@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header3.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>花の色は 移りにけりな 徒に</h3>
-<p><details><summary>下の句と情報</summary><p>我が身世にふる ながめせしまに</p><p>(はなのいろは うつりにけりな いたづらに　わがみよにふる ながめせしまに)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_009">http://linkdata.org/resource/rdf1s6833i#kajin_009</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_009.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_009.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_009">http://linkdata.org/resource/rdf1s8931i#audio_nhk_009</a></li></ul></details></p>
+<h3>百敷や 古き軒端の しのぶにも</h3>
+<p><details><summary>下の句と情報</summary><p>なほあまりある 昔なりけり</p><p>(ももしきや ふるきのきばの しのぶにも　なほあまりある むかしなりけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_100">http://linkdata.org/resource/rdf1s6833i#kajin_100</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_100.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_100.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_100">http://linkdata.org/resource/rdf1s8931i#audio_nhk_100</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
