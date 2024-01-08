@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header3.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>恨み侘び ほさぬ袖だに あるものを</h3>
-<p><details><summary>下の句と情報</summary><p>戀に朽ちなむ 名こそ惜しけれ</p><p>(うらみわび ほさぬそでだに あるものを　こひにくちなむ なこそをしけれ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_065">http://linkdata.org/resource/rdf1s6833i#kajin_065</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_065.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_065.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_065">http://linkdata.org/resource/rdf1s8931i#audio_nhk_065</a></li></ul></details></p>
+<h3>月見れば 千々に物こそ 悲しけれ</h3>
+<p><details><summary>下の句と情報</summary><p>わが身ひとつの 秋にはあらねど</p><p>(つきみれば ちゞにものこそ かなしけれ　わがみひとつの あきにはあらねど)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_023">http://linkdata.org/resource/rdf1s6833i#kajin_023</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_023.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_023.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_023">http://linkdata.org/resource/rdf1s8931i#audio_nhk_023</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
