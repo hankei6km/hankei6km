@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>花さそふ あらしの庭の 雪ならで</h3>
-<p><details><summary>下の句と情報</summary><p>ふりゆくものは 我が身なりけり</p><p>(はなさそふ あらしのにはの ゆきならで　ふりゆくものは わがみなりけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_096">http://linkdata.org/resource/rdf1s6833i#kajin_096</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_096.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_096.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_096">http://linkdata.org/resource/rdf1s8931i#audio_nhk_096</a></li></ul></details></p>
+<h3>陸奥の しのぶもぢずり 誰故に</h3>
+<p><details><summary>下の句と情報</summary><p>みだれ初めにし 我ならなくに</p><p>(みちのくの しのぶもぢずり たれゆゑに　みだれそめにし われならなくに)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_014">http://linkdata.org/resource/rdf1s6833i#kajin_014</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_014.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_014.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_014">http://linkdata.org/resource/rdf1s8931i#audio_nhk_014</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
