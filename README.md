@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>おほけなく うき世の民に おほふかな</h3>
-<p><details><summary>下の句と情報</summary><p>我が立つ杣に 墨染の袖</p><p>(おほけなく うきよのたみに おほふかな　わがたつそまに すみぞめのそで)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_095">http://linkdata.org/resource/rdf1s6833i#kajin_095</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_095.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_095.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_095">http://linkdata.org/resource/rdf1s8931i#audio_nhk_095</a></li></ul></details></p>
+<h3>住の江の 岸に寄る浪 よるさへや</h3>
+<p><details><summary>下の句と情報</summary><p>夢の通ひ路 人目よくらむ</p><p>(すみのえの きしによるなみ よるさえや　ゆめのかよひぢ ひとめよくらむ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_018">http://linkdata.org/resource/rdf1s6833i#kajin_018</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_018.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_018.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_018">http://linkdata.org/resource/rdf1s8931i#audio_nhk_018</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
