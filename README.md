@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>音に聞く 高師の濱の あだ浪は</h3>
-<p><details><summary>下の句と情報</summary><p>かけじや袖の ぬれもこそすれ</p><p>(おとにきく たかしのはまの あだなみは　かけじやそでの ぬれもこそすれ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_072">http://linkdata.org/resource/rdf1s6833i#kajin_072</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_072.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_072.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_072">http://linkdata.org/resource/rdf1s8931i#audio_nhk_072</a></li></ul></details></p>
+<h3>ちはやぶる 神代も聞かず 龍田川</h3>
+<p><details><summary>下の句と情報</summary><p>から紅に 水くくるとは</p><p>(ちはやぶる かみよもきかず たつたがは　からくれなゐに みづくくるとは)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_017">http://linkdata.org/resource/rdf1s6833i#kajin_017</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_017.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_017.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_017">http://linkdata.org/resource/rdf1s8931i#audio_nhk_017</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
