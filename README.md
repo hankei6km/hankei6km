@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header3.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>朝ぼらけ 有明の月と 見るまでに</h3>
-<p><details><summary>下の句と情報</summary><p>吉野の里に 降れる白雪</p><p>(あさぼらけ ありあけのつきと みるまでに　よしののさとに ふれるしらゆき)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_031">http://linkdata.org/resource/rdf1s6833i#kajin_031</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_031.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_031.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_031">http://linkdata.org/resource/rdf1s8931i#audio_nhk_031</a></li></ul></details></p>
+<h3>やすらはで 寝なましものを 小夜更けて</h3>
+<p><details><summary>下の句と情報</summary><p>傾くまでの 月を見しかな</p><p>(やすらはで ねなましものを さよふけて　かたぶくまでの つきをみしかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_059">http://linkdata.org/resource/rdf1s6833i#kajin_059</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_059.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_059.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_059">http://linkdata.org/resource/rdf1s8931i#audio_nhk_059</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
