@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>難波江の あしのかりねの 一夜ゆゑ</h3>
-<p><details><summary>下の句と情報</summary><p>みをつくしてや 戀ひわたるべき</p><p>(なにはえの あしのかりねの ひとよゆゑ　みをつくしてや こひわたるべき)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_088">http://linkdata.org/resource/rdf1s6833i#kajin_088</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_088.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_088.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_088">http://linkdata.org/resource/rdf1s8931i#audio_nhk_088</a></li></ul></details></p>
+<h3>心にも あらで憂世に ながらへば</h3>
+<p><details><summary>下の句と情報</summary><p>戀しかるべき 夜半の月かな</p><p>(こころにも あらでうきよに ながらへば　こひしかるべき よはのつきかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_068">http://linkdata.org/resource/rdf1s6833i#kajin_068</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_068.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_068.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_068">http://linkdata.org/resource/rdf1s8931i#audio_nhk_068</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
