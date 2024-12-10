@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>夜をこめて 鳥のそら音は はかるとも</h3>
-<p><details><summary>下の句と情報</summary><p>世に逢坂の 関はゆるさじ</p><p>(よをこめて とりのそらねは はかるとも　よにあふさかの せきはゆるさじ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_062">http://linkdata.org/resource/rdf1s6833i#kajin_062</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_062.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_062.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_062">http://linkdata.org/resource/rdf1s8931i#audio_nhk_062</a></li></ul></details></p>
+<h3>逢ふことの 絶えてしなくば なかなかに</h3>
+<p><details><summary>下の句と情報</summary><p>人をも身をも 恨みざらまし</p><p>(あふことの たえてしなくば なかなかに　ひとをもみをも うらみざらまし)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_044">http://linkdata.org/resource/rdf1s6833i#kajin_044</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_044.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_044">http://linkdata.org/resource/rdf1s8931i#audio_nhk_044</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
