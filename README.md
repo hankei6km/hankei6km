@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>有明の つれなく見えし 別れより</h3>
-<p><details><summary>下の句と情報</summary><p>暁ばかり 憂きものはなし</p><p>(ありあけの つれなくみえし わかれより　あかつきばかり うきものはなし)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_030">http://linkdata.org/resource/rdf1s6833i#kajin_030</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_030.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_030.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_030">http://linkdata.org/resource/rdf1s8931i#audio_nhk_030</a></li></ul></details></p>
+<h3>由良の戸を わたる舟人 楫をたえ</h3>
+<p><details><summary>下の句と情報</summary><p>行方もしらぬ 戀の道かな</p><p>(ゆらのとを わたるふなびと かぢをたえ　ゆくへもしらぬ こひのみちかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_046">http://linkdata.org/resource/rdf1s6833i#kajin_046</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_046.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_046.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_046">http://linkdata.org/resource/rdf1s8931i#audio_nhk_046</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
