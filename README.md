@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>心あてに 折らばや折らむ 初霜の</h3>
-<p><details><summary>下の句と情報</summary><p>置きまどはせる 白菊の花</p><p>(こころあてに おらばやおらむ はつしもの　おきまどはせる しらぎくのはな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_029">http://linkdata.org/resource/rdf1s6833i#kajin_029</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_029.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_029.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_029">http://linkdata.org/resource/rdf1s8931i#audio_nhk_029</a></li></ul></details></p>
+<h3>今はただ 思ひ絶えなむ とばかりを</h3>
+<p><details><summary>下の句と情報</summary><p>人づてならで 言ふよしもがな</p><p>(いまはただ おもひたえなむ とばかりを　ひとづてならで いふよしもがな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_063">http://linkdata.org/resource/rdf1s6833i#kajin_063</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_063.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_063.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_063">http://linkdata.org/resource/rdf1s8931i#audio_nhk_063</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
