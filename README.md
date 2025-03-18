@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header1.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>御垣守 衛士のたく火の 夜はもえ</h3>
-<p><details><summary>下の句と情報</summary><p>晝は消えつつ ものをこそ思へ</p><p>(みかきもり ゑじのたくひの よるはもえ　ひるはきえつつ ものをこそおもへ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_049">http://linkdata.org/resource/rdf1s6833i#kajin_049</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_049.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_049.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_049">http://linkdata.org/resource/rdf1s8931i#audio_nhk_049</a></li></ul></details></p>
+<h3>世の中よ 道こそなけれ 思ひ入る</h3>
+<p><details><summary>下の句と情報</summary><p>山の奥にも 鹿ぞなくなる</p><p>(よのなかよ みちこそなけれ おもひいる　やまのおくにも しかぞなくなる)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_083">http://linkdata.org/resource/rdf1s6833i#kajin_083</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_083.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_083.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_083">http://linkdata.org/resource/rdf1s8931i#audio_nhk_083</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
