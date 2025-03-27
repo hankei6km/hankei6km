@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>高砂の 尾の上の桜 咲きにけり</h3>
-<p><details><summary>下の句と情報</summary><p>外山の霞 立たずもあらなむ</p><p>(たかさごの おのへのさくら さきにけり　とやまのかすみ たたずもあらなむ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_073">http://linkdata.org/resource/rdf1s6833i#kajin_073</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_073.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_073.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_073">http://linkdata.org/resource/rdf1s8931i#audio_nhk_073</a></li></ul></details></p>
+<h3>夜をこめて 鳥のそら音は はかるとも</h3>
+<p><details><summary>下の句と情報</summary><p>世に逢坂の 関はゆるさじ</p><p>(よをこめて とりのそらねは はかるとも　よにあふさかの せきはゆるさじ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_062">http://linkdata.org/resource/rdf1s6833i#kajin_062</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_062.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_062.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_062">http://linkdata.org/resource/rdf1s8931i#audio_nhk_062</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
