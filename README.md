@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>諸共に あはれと思へ 山ざくら</h3>
-<p><details><summary>下の句と情報</summary><p>花よりほかに 知る人もなし</p><p>(もろともに あはれとおもへ やまざくら　はなよりほかに しるひともなし)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_066">http://linkdata.org/resource/rdf1s6833i#kajin_066</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_066.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_066.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_066">http://linkdata.org/resource/rdf1s8931i#audio_nhk_066</a></li></ul></details></p>
+<h3>君がため 惜しからざりし 命さへ</h3>
+<p><details><summary>下の句と情報</summary><p>長くもがなと 思ひけるかな</p><p>(きみがため をしからざりし いのちさえ　ながくもがなと おもひけるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_050">http://linkdata.org/resource/rdf1s6833i#kajin_050</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_050.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_050.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_050">http://linkdata.org/resource/rdf1s8931i#audio_nhk_050</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
