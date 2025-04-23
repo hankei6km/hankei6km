@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">hankei6km's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 111, Total Commits in 2025 : 451, Total PRs: 1910, Total Issues: 32, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 111, Total Commits in 2025 : 451, Total PRs: 1911, Total Issues: 32, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 77.55505184090276;
+        stroke-dashoffset: 77.55505184090006;
       }
     }
   
