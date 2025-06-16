@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header1.jpg)
+![()=>hankei6km](assets/images/header2.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>契りきな かたみに袖を しぼりつつ</h3>
-<p><details><summary>下の句と情報</summary><p>末の松山 浪こさじとは</p><p>(ちぎりきな かたみにそでを しぼりつつ　すゑのまつやま なみこさじとは)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_042">http://linkdata.org/resource/rdf1s6833i#kajin_042</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_042.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_042.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_042">http://linkdata.org/resource/rdf1s8931i#audio_nhk_042</a></li></ul></details></p>
+<h3>天つ風 雲のかよひぢ 吹きとぢよ</h3>
+<p><details><summary>下の句と情報</summary><p>をとめの姿 しばし留めむ</p><p>(あまつかぜ くものかよひぢ ふきとぢよ　をとめのすがた しばしとどめむ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_012">http://linkdata.org/resource/rdf1s6833i#kajin_012</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_012.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_012.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_012">http://linkdata.org/resource/rdf1s8931i#audio_nhk_012</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
