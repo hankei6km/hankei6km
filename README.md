@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>白露に 風の吹きしく 秋の野は</h3>
-<p><details><summary>下の句と情報</summary><p>つらぬきとめぬ 玉ぞ散りける</p><p>(しらつゆに かぜのふきしく あきののは　つらぬきとめぬ たまぞちりける)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_037">http://linkdata.org/resource/rdf1s6833i#kajin_037</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_037.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_037.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_037">http://linkdata.org/resource/rdf1s8931i#audio_nhk_037</a></li></ul></details></p>
+<h3>君がため 惜しからざりし 命さへ</h3>
+<p><details><summary>下の句と情報</summary><p>長くもがなと 思ひけるかな</p><p>(きみがため をしからざりし いのちさえ　ながくもがなと おもひけるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_050">http://linkdata.org/resource/rdf1s6833i#kajin_050</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_050.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_050.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_050">http://linkdata.org/resource/rdf1s8931i#audio_nhk_050</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
