@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>これや此の 行くも帰るも 別かれては</h3>
-<p><details><summary>下の句と情報</summary><p>知るも知らぬも 逢坂の関</p><p>(これやこの ゆくもかへるも わかれては　しるもしらぬも あふさかのせき)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_010">http://linkdata.org/resource/rdf1s6833i#kajin_010</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_010.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_010.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_010">http://linkdata.org/resource/rdf1s8931i#audio_nhk_010</a></li></ul></details></p>
+<h3>八重葎 しげれる宿の さびしきに</h3>
+<p><details><summary>下の句と情報</summary><p>人こそ見えね 秋はきにけり</p><p>(やえむぐら しげれるやどの さびしきに　ひとこそみえね あきはきにけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_047">http://linkdata.org/resource/rdf1s6833i#kajin_047</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_047.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_047.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_047">http://linkdata.org/resource/rdf1s8931i#audio_nhk_047</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
