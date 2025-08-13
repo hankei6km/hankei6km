@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header3.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>廻り逢ひて 見しやそれとも わかぬまに</h3>
-<p><details><summary>下の句と情報</summary><p>雲がくれにし 夜半の月かな</p><p>(めぐりあひて みしやそれとも わかぬまに　くもがくれにし よはのつきかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_057">http://linkdata.org/resource/rdf1s6833i#kajin_057</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_057.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_057.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_057">http://linkdata.org/resource/rdf1s8931i#audio_nhk_057</a></li></ul></details></p>
+<h3>夜もすがら もの思ふ頃は 明けやらで</h3>
+<p><details><summary>下の句と情報</summary><p>ねやのひまさへ つれなかりけり</p><p>(よもすがら ものおもふころは あけやらで　ねやのひまさへ つれなかりけり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_085">http://linkdata.org/resource/rdf1s6833i#kajin_085</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_085.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_085.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_085">http://linkdata.org/resource/rdf1s8931i#audio_nhk_085</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
