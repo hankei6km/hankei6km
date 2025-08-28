@@ -1,6 +1,6 @@
 <p align="center">
 
-![()=>hankei6km](assets/images/header2.jpg)
+![()=>hankei6km](assets/images/header1.jpg)
 
 </p>
 
@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>淡路島 かよふ千鳥の 鳴く声に</h3>
-<p><details><summary>下の句と情報</summary><p>いくよ寝覚めぬ 須磨の関守</p><p>(あわじしま かよふちどりの なくこゑに　いくよねざめぬ すまのせきもり)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_078">http://linkdata.org/resource/rdf1s6833i#kajin_078</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_078.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_078.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_078">http://linkdata.org/resource/rdf1s8931i#audio_nhk_078</a></li></ul></details></p>
+<h3>高砂の 尾の上の桜 咲きにけり</h3>
+<p><details><summary>下の句と情報</summary><p>外山の霞 立たずもあらなむ</p><p>(たかさごの おのへのさくら さきにけり　とやまのかすみ たたずもあらなむ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_073">http://linkdata.org/resource/rdf1s6833i#kajin_073</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_073.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_073.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_073">http://linkdata.org/resource/rdf1s8931i#audio_nhk_073</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
