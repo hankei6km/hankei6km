@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>誰をかも 知る人にせむ 高砂の</h3>
-<p><details><summary>下の句と情報</summary><p>松も昔の 友ならなくに</p><p>(たれをかも しるひとにせむ たかさごの　まつもむかしの ともならなくに)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_034">http://linkdata.org/resource/rdf1s6833i#kajin_034</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_034.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_034.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_034">http://linkdata.org/resource/rdf1s8931i#audio_nhk_034</a></li></ul></details></p>
+<h3>ながからむ 心も知らず 黒髪の</h3>
+<p><details><summary>下の句と情報</summary><p>みだれて今朝は ものをこそ思へ</p><p>(ながからむ こころもしらず くろかみの　みだれてけさは ものをこそおもへ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_080">http://linkdata.org/resource/rdf1s6833i#kajin_080</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_080.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_080.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_080">http://linkdata.org/resource/rdf1s8931i#audio_nhk_080</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
