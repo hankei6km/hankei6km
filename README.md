@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>田子の浦に 打出でてみれば 白妙の</h3>
-<p><details><summary>下の句と情報</summary><p>ふじの高嶺に 雪は降りつつ</p><p>(たごのうらに うちいでてみれば しろたへの　ふじのたかねに ゆきはふりつつ)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_004">http://linkdata.org/resource/rdf1s6833i#kajin_004</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_004.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_004.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_004">http://linkdata.org/resource/rdf1s8931i#audio_nhk_004</a></li></ul></details></p>
+<h3>ほととぎす 鳴きつる方を 眺むれば</h3>
+<p><details><summary>下の句と情報</summary><p>ただ有明の 月ぞ残れる</p><p>(ほととぎす なきつるかたを ながむれば　ただありあけの つきぞのこれる)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_081">http://linkdata.org/resource/rdf1s6833i#kajin_081</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_081.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_081.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_081">http://linkdata.org/resource/rdf1s8931i#audio_nhk_081</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
