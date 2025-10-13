@@ -49,8 +49,8 @@ Recent deck from mardock
 Today's Ogura Hyakunin Isshu
 </h2>
 
-<h3>忘らるる 身をば思はず 誓ひてし</h3>
-<p><details><summary>下の句と情報</summary><p>人の命の 惜しくもあるかな</p><p>(わすらるる みをばおもはず ちかひてし　ひとのいのちの をしくもあるかな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_038">http://linkdata.org/resource/rdf1s6833i#kajin_038</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_038.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_038.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_038">http://linkdata.org/resource/rdf1s8931i#audio_nhk_038</a></li></ul></details></p>
+<h3>今はただ 思ひ絶えなむ とばかりを</h3>
+<p><details><summary>下の句と情報</summary><p>人づてならで 言ふよしもがな</p><p>(いまはただ おもひたえなむ とばかりを　ひとづてならで いふよしもがな)</p><ul><li>歌人 - <a href="http://linkdata.org/resource/rdf1s6833i#kajin_063">http://linkdata.org/resource/rdf1s6833i#kajin_063</a></li><li>読札 - <a href="https://commons.wikimedia.org/wiki/File:Hyakuninisshu_063.jpg">https://commons.wikimedia.org/wiki/File:Hyakuninisshu_063.jpg</a></li><li>異なる記録形式 - <a href="http://linkdata.org/resource/rdf1s8931i#audio_nhk_063">http://linkdata.org/resource/rdf1s8931i#audio_nhk_063</a></li></ul></details></p>
 
 <details>
 <summary>credit</summary>
